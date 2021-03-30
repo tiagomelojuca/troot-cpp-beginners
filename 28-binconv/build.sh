@@ -1,0 +1,1 @@
+g++ main.cpp project.cpp -o binconv
